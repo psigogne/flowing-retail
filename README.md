@@ -1,5 +1,5 @@
 # Flowing Retail
-
+  
 This sample application demonstrates a simple order fulfillment system decomposed into multiple independant components (e.g. microservices).
 
 There is code for multiple implementation alternatives to allow a broad audience to undestand the code or to compare alternatives. The table below lists these alternatives.
@@ -59,3 +59,4 @@ Depending on the means of communication (e.g. messaging vs. blocking synchronous
 * Introduction blog post: https://blog.bernd-ruecker.com/flowing-retail-demonstrating-aspects-of-microservices-events-and-their-flow-with-concrete-source-7f3abdd40e53
 * InfoQ-Writeup "Events, Flows and Long-Running Services: A Modern Approach to Workflow Automation": https://www.infoq.com/articles/events-workflow-automation
 * InfoWorld article "3 common pitfalls of microservices integration—and how to avoid them": https://www.infoworld.com/article/3254777/application-development/3-common-pitfalls-of-microservices-integrationand-how-to-avoid-them.html
+
